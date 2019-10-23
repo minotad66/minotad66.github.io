@@ -371,11 +371,34 @@ footer p {
     display: none;
   }
 
-  .slider img {
-    display: flex;
-    width: 100%;
-    height: 10rem;
-    overflow: hidden;
+  @keyframes cambio {
+    0% {
+      margin-left: 0;
+    }
+    20% {
+      margin-left: 0;
+    }
+  
+    25% {
+      margin-left: -95%;
+    }
+    45% {
+      margin-left: -95%;
+    }
+  
+    50% {
+      margin-left: -195%;
+    }
+    70% {
+      margin-left: -195%;
+    }
+  
+    75% {
+      margin-left: -295%;
+    }
+    100% {
+      margin-left: -295%;
+    }
   }
 
   .grid-3,
