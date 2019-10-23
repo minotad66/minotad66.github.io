@@ -217,8 +217,8 @@ footer p {
 
 .slider img {
   display: flex;
-  max-width: 20rem;
-  max-height: 20rem;
+  width: 20rem;
+  height: 20rem;
   overflow: hidden;
 }
 
@@ -371,9 +371,23 @@ footer p {
     display: none;
   }
 
+  .slider img {
+    display: flex;
+    width: 20rem;
+    height: 20rem;
+    overflow: hidden;
+  }
+
   .grid-3,
   .grid-2 {
     grid-template-columns: 1fr;
+  }
+
+  .slider img {
+    display: flex;
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
   }
 
   .imagen{
