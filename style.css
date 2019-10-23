@@ -252,6 +252,11 @@ footer p {
   }
 }
 
+.imagen{
+  max-width: 50px;
+  max-height: 50px;
+}
+
 .card {
   position: relative;
   top: 50%;
