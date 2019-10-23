@@ -371,6 +371,11 @@ footer p {
     grid-template-columns: 1fr;
   }
 
+  .imagen{
+    max-width: 50px;
+    max-height: 50px;
+  }
+
   .services div {
     border-bottom: #333 dashed 1px;
     padding: 1.2rem 1rem;
