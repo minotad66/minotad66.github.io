@@ -385,6 +385,7 @@ footer p {
 
   .slider img {
     display: flex;
+    align-self: center;
     width: 500px;
     height: 500px;
     overflow: hidden;
