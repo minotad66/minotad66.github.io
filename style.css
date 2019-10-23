@@ -217,8 +217,8 @@ footer p {
 
 .slider img {
   display: flex;
-  width: 20rem;
-  height: 20rem;
+  max-width: 20rem;
+  max-height: 20rem;
   overflow: hidden;
 }
 
