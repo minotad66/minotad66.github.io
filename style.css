@@ -383,7 +383,7 @@ footer p {
 }
 
 /* Landscape */
-@media (max-height: 500px) {
+@media (max-height: 700px) {
   .content .title,
   .content .text {
     display: none;
