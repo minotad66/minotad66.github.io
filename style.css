@@ -373,7 +373,7 @@ footer p {
 
   .slider img {
     display: flex;
-    width: 500px;
+    width: 100px;
     height: 10rem;
     overflow: hidden;
   }
